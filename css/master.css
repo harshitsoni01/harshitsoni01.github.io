@@ -4,19 +4,24 @@
 
   a {
     /* set the text color to blue here */
-    color: blue;
-    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    /* This means we do not want hyperlinks to be underlined */
+    background-color: #50ded8;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
   }
 
   a:hover {
     /* set the text color to red here */
-    color: red;
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    background-color:#45a29e;
   }
 
   body {
     /* set the background color here */
-    background-color: powderblue;
+    background-color: #1f384e;
     /* set the text color to black here */
     color: black;
     /* set the font here */
@@ -31,13 +36,14 @@
   }
 
   h1 {
+    color: #66fcf1;
     margin-bottom: 0.5rem;
     margin-top: 3rem;
    }
 
   h2 {
     /* set the text color of to #075AAB here */
-    color: #075AAB;
+    color: #c5c6c7;
     /* set both the bottom margin and top margin to 2.5rem here */
     margin-bottom: 2.5rem;
     margin-top: 2.5rem;
