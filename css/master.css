@@ -20,14 +20,14 @@
   }
   img{
 
-    float: left;
+    float: center;
   }
 
   body {
     /* set the background color here */
     background-color: #1f384e;
     /* set the text color to black here */
-    color: white;
+    color: #c5c6c7;
     /* set the font here */
     font-family: Arial, Helvetica, sans-serif;
     /* set the text alignment here */
@@ -47,7 +47,7 @@
 
   h2 {
     /* set the text color of to #075AAB here */
-    color: #c5c6c7;
+    color: white;
     /* set both the bottom margin and top margin to 2.5rem here */
     margin-bottom: 2.5rem;
     margin-top: 2.5rem;
