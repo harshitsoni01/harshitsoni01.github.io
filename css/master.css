@@ -18,10 +18,6 @@
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
     background-color:#45a29e;
   }
-  img{
-
-    float: center;
-  }
 
   body {
     /* set the background color here */
