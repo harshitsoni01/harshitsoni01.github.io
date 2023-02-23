@@ -2104,7 +2104,6 @@ input, select, textarea {
 /* Articles */
 
 	body > article {
-		margin-top: 0;
 		margin-bottom: 0;
 	}
 
