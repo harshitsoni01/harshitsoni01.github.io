@@ -1610,6 +1610,7 @@ input, select, textarea {
 /* Section/Article */
 
 	section, article {
+		margin-top: 0;
 		margin-bottom: 3em;
 	}
 
@@ -2043,7 +2044,7 @@ input, select, textarea {
 		text-align: center;
 		position: fixed;
 		left: 0;
-		top: 0;
+		top: -10;
 		width: 100%;
 		z-index: 10000;
 		cursor: default;
