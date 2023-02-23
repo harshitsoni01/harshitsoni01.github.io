@@ -2044,7 +2044,7 @@ input, select, textarea {
 		text-align: center;
 		position: fixed;
 		left: 0;
-		top: -10;
+		top: 0;
 		width: 100%;
 		z-index: 10000;
 		cursor: default;
@@ -2105,6 +2105,7 @@ input, select, textarea {
 /* Articles */
 
 	body > article {
+		margin-top: 0;
 		margin-bottom: 0;
 	}
 
